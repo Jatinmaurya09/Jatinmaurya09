@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:7F00FF&height=200&section=header&text=Jatin%20Maurya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Aspiring%20Software%20Developer%20%7C%20DSA%20Learner&descAlignY=58" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Learning+C%2B%2B+and+Data+Structures;Exploring+Python+and+Web+Development;Solving+Problems+One+Day+at+a+Time;Building+Strong+Programming+Fundamentals" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=00C9FF&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Learning+C%2B%2B+and+Data+Structures+and+Algorithms;Learning+Machine+Learning+with+Python;Exploring+Python+and+Web+Development;Building+Strong+Programming+Fundamentals" alt="Typing animation"/>
 
 <br>
 
