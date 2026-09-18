@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:7F00FF&height=200&section=header&text=Jatin%20Maurya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Aspiring%20Software%20Developer%20%7C%20DSA%20%26%20ML%20Learner&descAlignY=58" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Learning+C%2B%2B+and+Data+Structures;Learning+Machine+Learning+with+Python;Exploring+Python+and+Web+Development;Building+Strong+Programming+Fundamentals" alt="Typing animation"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=00C9FF&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Learning+C%2B%2B+and+Data+Structures;Learning+Machine+Learning+with+Python;Exploring+Python+and+Web+Development;Building+Strong+Programming+Fundamentals" alt="Typing SVG"/>
+</a>
 <br>
 
 <a href="https://instagram.com/jatin__maurya__09">
@@ -40,7 +42,7 @@ public:
 * 🌱 Currently learning **C++ and Data Structures & Algorithms**
 * 🧠 Focused on improving **problem-solving skills**
 * 🐍 Exploring **Python programming**
-* * 🤖 Currently learning **Machine Learning**
+* 🤖 Currently learning **Machine Learning**
 * 🌐 Learning **HTML, CSS and JavaScript**
 * 🛠️ Building coding practice projects
 * 🎯 Goal: Become a skilled software developer
