@@ -41,7 +41,7 @@ public:
 * 🌱 Currently learning **C++ and Data Structures & Algorithms**
 * 🧠 Focused on improving **problem-solving skills**
 * 🐍 Exploring **Python programming**
-*🤖 Currently learning **Machine Learning with Python**
+* 🤖 Currently learning **Machine Learning with Python**
 * 🌐 Learning **HTML, CSS and JavaScript**
 * 🛠️ Building coding practice projects
 * 🎯 Goal: Become a skilled software developer
